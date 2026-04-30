@@ -1,0 +1,11 @@
+{
+  "build": {
+    "outputDirectory": "."
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/adi-3.html"
+    }
+  ]
+}
